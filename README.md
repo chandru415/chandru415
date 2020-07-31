@@ -9,7 +9,7 @@
 🌱 I’m currently learning everything 🤣 <br/>
 👯 I’m looking to collaborate on **GitHub** or **offline!** <br/>
 💬 Ask me about ***Angular, .Net or anyother tech related stuff*** <br/>
-📫 How to reach me: [Twitter - @chandru415](https://twitter.com/chandru415)
+📫 How to reach me: [Twitter - @chandru415](https://twitter.com/chandru415) <br/>
 😄 Pronouns: He/His <br/>
 ⚡ Fun fact: playing :video_game: PC games on free time <br/>
 
@@ -50,3 +50,11 @@
 <a href="https://github.com/chandru415">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandru415&show_icons=true&theme=light&line_height=27" alt="chandru415's github stats"/>
 </a>
+
+### <br/>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
