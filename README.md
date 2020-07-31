@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on ...
- 🌱 I’m currently learning everything 🤣
- 👯 I’m looking to collaborate on GitHub or Offline
- 💬 Ask me about Angular, .Net or anyother tech related stuff
- 📫 How to reach me: ...
- 😄 Pronouns: chandu, chandra
- ⚡ Fun fact: playing PC games on free time
+ 🔭 I’m currently working on ... <br>
+ 🌱 I’m currently learning everything 🤣 <br>
+ 👯 I’m looking to collaborate on GitHub or Offline <br>
+ 💬 Ask me about Angular, .Net or anyother tech related stuff <br>
+ 📫 How to reach me: ... <br>
+ 😄 Pronouns: chandu, chandra <br>
+ ⚡ Fun fact: playing PC games on free time <br>
 
