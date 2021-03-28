@@ -3,7 +3,7 @@
 <!--
 **chandru415/chandru415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## I'm a Architect, developer and Teacher!
+## I'm an Architect, developer and Teacher!
 
 🔭 I’m currently working on **_electron_** <br/>
 🌱 I’m currently learning everything 🤣 <br/>
