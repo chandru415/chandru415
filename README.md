@@ -1,9 +1,9 @@
-### Hi there, 👋 I'm chandra sekhar - aka chandu
+### Hi there, 👋 I'm Chandra Sekhar - aka Chandu
 
 <!--
 **chandru415/chandru415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## I'm an Architect, Developer and Instructor!
+## I'm an Architect, Developer, and Instructor!
 
 🔭 I’m currently working on **_electron_** <br/>
 🌱 I’m currently learning everything 🤣 <br/>
@@ -14,6 +14,8 @@
 ⚡ Fun fact: playing :video_game: PC games on free time <br/>
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandru415&label=Profile%20views&color=0e75b6&style=flat" alt="kanchiss" /> </p>
 
 ### Languages and Technologies
 
