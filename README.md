@@ -6,7 +6,7 @@
 ## I'm an Architect, Developer, and Instructor!
 
 🔭 I’m currently working on **_angular_** <br/>
-🌱 I’m currently learning **_goland_** 🤣 <br/>
+🌱 I’m currently learning **_golang_** 🤣 <br/>
 👯 I’m looking to collaborate on **GitHub** or **offline!** <br/>
 💬 Ask me about **_Angular, .Net or any other tech related stuff_** <br/>
 📫 How to reach me: [Twitter - @chandru415](https://twitter.com/chandru415) <br/>
