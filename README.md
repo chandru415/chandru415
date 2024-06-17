@@ -15,7 +15,8 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandru415&label=Profile%20views&color=0e75b6&style=flat" alt="kanchiss" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandru415&label=Profile%20views&color=0e75b6&style=flat" alt="chandru415" /> </p>
+
 
 ### Languages and Technologies
 <p>
